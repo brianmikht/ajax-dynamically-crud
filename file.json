@@ -1,0 +1,66 @@
+[
+    {
+        "id": "9",
+        "0": "9",
+        "nama_lantai": "[\"rtyu\",\"yuti\"]",
+        "1": "[\"rtyu\",\"yuti\"]",
+        "luas": "[\"78\",\"90\"]",
+        "2": "[\"78\",\"90\"]"
+    },
+    {
+        "id": "10",
+        "0": "10",
+        "nama_lantai": "[\"hbv\",\"efarti\",\"werty\"]",
+        "1": "[\"hbv\",\"efarti\",\"werty\"]",
+        "luas": "[\"88\",\"76\",\"96\"]",
+        "2": "[\"88\",\"76\",\"96\"]"
+    },
+    {
+        "id": "11",
+        "0": "11",
+        "nama_lantai": "[\"Pradita Consoeling\",\"Pradita Center\"]",
+        "1": "[\"Pradita Consoeling\",\"Pradita Center\"]",
+        "luas": "[\"200\",\"500\"]",
+        "2": "[\"200\",\"500\"]"
+    },
+    {
+        "id": "12",
+        "0": "12",
+        "nama_lantai": "[\"Perpustakaan\",\"Lab\",\"Auditorium\",\"Park\"]",
+        "1": "[\"Perpustakaan\",\"Lab\",\"Auditorium\",\"Park\"]",
+        "luas": "[\"460\",\"320\",\"880\",\"476\"]",
+        "2": "[\"460\",\"320\",\"880\",\"476\"]"
+    },
+    {
+        "id": "13",
+        "0": "13",
+        "nama_lantai": "[\"Taman Kebangsaan\",\"Lapangan Badminton\"]",
+        "1": "[\"Taman Kebangsaan\",\"Lapangan Badminton\"]",
+        "luas": "[\"780\",\"660\"]",
+        "2": "[\"780\",\"660\"]"
+    },
+    {
+        "id": "14",
+        "0": "14",
+        "nama_lantai": "[\"Lapangan Upacara\",\"Lapangan Voli\"]",
+        "1": "[\"Lapangan Upacara\",\"Lapangan Voli\"]",
+        "luas": "[\"770\",\"620\"]",
+        "2": "[\"770\",\"620\"]"
+    },
+    {
+        "id": "15",
+        "0": "15",
+        "nama_lantai": "[\"Lapangan Basket\",\"Lapangan Futsal\"]",
+        "1": "[\"Lapangan Basket\",\"Lapangan Futsal\"]",
+        "luas": "[\"680\",\"788\"]",
+        "2": "[\"680\",\"788\"]"
+    },
+    {
+        "id": "16",
+        "0": "16",
+        "nama_lantai": "[\"Kolam Renang\",\"Tennis Meja\"]",
+        "1": "[\"Kolam Renang\",\"Tennis Meja\"]",
+        "luas": "[\"428\",\"279\"]",
+        "2": "[\"428\",\"279\"]"
+    }
+]
